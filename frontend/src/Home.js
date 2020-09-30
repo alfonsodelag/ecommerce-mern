@@ -14,7 +14,7 @@ function Home() {
             <div className="home__row">
 
                 <Product
-                    id="12321341"
+                    id="66769457"
                     title="The Lean Startup Book"
                     price={11.99}
                     rating={3}
@@ -22,7 +22,7 @@ function Home() {
                 />
 
                 <Product
-                    id="12321341"
+                    id="882222390"
                     title="Apple iPhone XR, 64GB, White - Fully Unlocked (Renewed)"
                     price={450}
                     rating={3}
@@ -32,17 +32,8 @@ function Home() {
             </div>
 
             <div className="home__row">
-
                 <Product
-                    id="12321341"
-                    title="Wireless Earbuds,Bluetooth 5.0 Wireless Headphones True Wireless Stereo Earphones with LED Battery Display Charging Case Built-in Mic, True Wireless Earbuds with Earhook for Running,Workouts"
-                    price={24.99}
-                    rating={4}
-                    image="https://images-na.ssl-images-amazon.com/images/I/61FRK6jP3IL._AC_SX425_.jpg"
-                />
-
-                <Product
-                    id="12321341"
+                    id="2601967"
                     title="Apple iPhone XR, 64GB, White - Fully Unlocked (Renewed)"
                     price={450}
                     rating={5}
@@ -50,7 +41,7 @@ function Home() {
                 />
 
                 <Product
-                    id="12321341"
+                    id="57222398"
                     title="Creative Pebble 2.0 USB-Powered Desktop Speakers with Far-Field Drivers and Passive Radiators for Pcs and Laptops (Black)"
                     price={21.20}
                     rating={3}
